@@ -2,8 +2,6 @@
 <h3 align="center">🚀 Full Stack Web Developer from Bangladesh</h3>
 ![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
 
-<img align=”right” alt=”Coding” width=”400” src="./nur_adnan.png"/>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Nur+Adnan....;Nice+to+meet+you!&center=true&size=30">
@@ -15,14 +13,14 @@
   <strong>Full Stack Web Engineer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, TypeScript, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍 | Blockchain Enthusiast & IEEE Researcher 💡</strong>
 </div>
 <br/>
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/nur-adnan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://app.daily.dev/nuradnan"><img src="https://img.shields.io/badge/-Daily%20Dev-000000?style=flat&logo=daily.dev&logoColor=white" alt="Daily Dev Badge"/></a>
   <a href="https://nur-adnan-chowdhury.web.app"><img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website Badge"/></a>
   <a href="https://x.com/NurAdnanChowdhu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://hashnode.com/@NurAdnan60"><img src="https://img.shields.io/badge/-Hashnode-2962FF?style=flat&logo=Hashnode&logoColor=white" alt="Hashnode Badge"/></a>
   <a href="mailto:nuradnanchowdhury015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
-</div>
+</div> -->
 <hr/>
 <img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
 
