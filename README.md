@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emran Faishal</h1>
 <h3 align="center">🚀 Full Stack Web Developer from Bangladesh</h3>
-![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
