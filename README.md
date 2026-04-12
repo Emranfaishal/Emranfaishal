@@ -9,8 +9,7 @@
 <h1 align="center">Hi 👋, I'm Emran Faishal Rahat</h1>
 <h3 align="center">Full Stack Web Developer from Bangladesh</h3>
 
-<h1 align="center">Hi 👋, I'm Emran Faishal Rahat</h1>
-<h3 align="center">Full Stack Web Developer from Bangladesh</h3>
+
 
 - 🌱 I’m currently learning **next.js**
 
