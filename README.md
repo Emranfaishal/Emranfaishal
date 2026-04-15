@@ -92,13 +92,13 @@ const morsalin = {
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-morsalin10&theme=tokyonight&border=6C63FF)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmranFaishalRahat&theme=tokyonight&border=6C63FF)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-morsalin10&theme=tokyo-night&border_color=6C63FF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Emranfaishal&theme=tokyo-night&border_color=6C63FF)
 
 </div>
 
