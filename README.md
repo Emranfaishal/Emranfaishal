@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Emran+Faishal.....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<div align="center">
 
 <br/>
 
