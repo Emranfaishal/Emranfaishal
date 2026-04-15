@@ -92,7 +92,7 @@ const morsalin = {
 
 <div align="center">
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EmranFaishalRahat&theme=tokyonight&border=6C63FF)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Emranfaishal&theme=tokyonight&border=6C63FF)
 
 </div>
 
