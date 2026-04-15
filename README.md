@@ -46,10 +46,10 @@ const morsalin = {
 
 ---
 
-## 🚀 Featured Projects
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+%7C+Next.js+Enthusiast;MERN+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
