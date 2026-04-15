@@ -21,7 +21,7 @@
 
 ```javascript
 const morsalin = {
-  name: "Md. Morsalin",
+  name: "Emran Faishal Rahat",
   location: "Dhaka, Bangladesh",
   role: "Aspiring Software Engineer",
   education: "Diploma in Engineering (Graduated 2025)", 
@@ -32,7 +32,7 @@ const morsalin = {
   codingPhilosophy: "Clean code and scalable architecture",
   openTo: ["Internships", "Collaborations", "Freelance Projects"],
   funFact: "I debug more than I sleep 💻",
-  email: "mdmorsalinofficial10@gmail.com",
+  email: "emranfaishalrahat@gamil.com",
 };
 
 ```
@@ -42,7 +42,7 @@ const morsalin = {
 - 🌱 Learning **React.js, Next.js & TypeScript**
 - 💡 Interested in **Frontend Development & Full Stack projects**
 - 🤝 Open to **collaborations and freelance opportunities**
-- 📫 Reach me at **mdmorsalinofficial10@gmail.com**
+- 📫 Reach me at **emranfaishalrahat@gamil.com**
 
 ---
 
