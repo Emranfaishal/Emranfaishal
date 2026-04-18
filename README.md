@@ -85,6 +85,16 @@ const morsalin = {
 ## 📊 GitHub Stats
 
 <div align="center">
+<div align="center" style="display:flex; gap:10px;">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusratjahan7&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=nusratjahan7&theme=radical&hide_border=true"
+    height="165"
+  />
+</div>
 
 
 
