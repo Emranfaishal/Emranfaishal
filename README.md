@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const morsalin = {
+const emranfaishal = {
   name: "Emran Faishal Rahat",
   location: "Dhaka, Bangladesh",
   role: "Aspiring Software Engineer",
